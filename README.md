@@ -4,7 +4,7 @@
 
 ➖ **Sign up with your Google account**  
 ➖ **Add Bless Extension** [HERE](https://chromewebstore.google.com/detail/bless/pljbjcehnhcnofmkdbjolghdcjnmekia)  
-➖ **Keep your Node Active** to increase Uptime and get points
+➖ **Keep your Node Active** to increase Uptime and get points  
 ✅ **Done!**
 
 # How to running on VPS
