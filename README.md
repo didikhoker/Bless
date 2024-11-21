@@ -1,6 +1,6 @@
 # Bless Network Testnet (SOL)
 ## Raise : $8M
-## Link: [Register](https://bless.network/dashboard?ref=LC9JYK)
+## Link: [Register](https://bless.network/dashboard?ref=LC9JYK), or [Link 1](https://bless.network/dashboard?ref=UQAXY4), or [Link 2](https://bless.network/dashboard?ref=SCESDQ), or [Link 3](https://bless.network/dashboard?ref=JNKQP5)
 
 ➖ **Sign up with your Google account**  
 ➖ **Add Bless Extension** [HERE](https://chromewebstore.google.com/detail/bless/pljbjcehnhcnofmkdbjolghdcjnmekia)  
@@ -35,4 +35,4 @@ python3 main.py
 **DONE**
 
 ## Long time no coffee. let's have a coffee
-
+**https://trakteer.id/Winsnipsupport/tip**
