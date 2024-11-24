@@ -1,6 +1,6 @@
 # Bless Network Testnet (SOL)
 ## Raise : $8M
-## Link: [Register](https://bless.network/dashboard?ref=LC9JYK), or [Link 1](https://bless.network/dashboard?ref=UQAXY4), or [Link 2](https://bless.network/dashboard?ref=SCESDQ), or [Link 3](https://bless.network/dashboard?ref=JNKQP5)
+## Link: [Register](https://bless.network/dashboard?ref=SR86N3), or [Link 1](https://bless.network/dashboard?ref=SR86N3), or [Link 2](https://bless.network/dashboard?ref=SR86N3), or [Link 3](https://bless.network/dashboard?ref=SR86N3)
 
 ➖ **Sign up with your Google account**  
 ➖ **Add Bless Extension** [HERE](https://chromewebstore.google.com/detail/bless/pljbjcehnhcnofmkdbjolghdcjnmekia)  
